@@ -1,6 +1,6 @@
-# upiqr.me
+# AUpi
 
-Source code for [upiqr.me](https://upiqr.me/) website.
+Source code for [AUpi](https://upiqr.vercel.app/) website.
 
 ## Development
 
